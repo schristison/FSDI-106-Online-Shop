@@ -1,0 +1,27 @@
+
+#bod{
+    background: rgba(155, 135, 138, 0.973);
+}
+h1{
+    margin-bottom: px;   
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(78, 72, 73);
+    color: white;
+}
+.container{
+    border:1px solid rgba(255, 192, 203, 0.863);
+    box-shadow: -2px 3px 3px #aaa;
+    padding: 0;
+    margin-top: 5rem;    
+    width: 60%;
+}
+.row{
+    margin-bottom: 25px;
+}
+.col-4{
+    text-align: right;
+}
+.hidden{
+    display: none;
+}
